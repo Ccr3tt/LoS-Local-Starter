@@ -73,7 +73,9 @@ Thank you always.
 ---
 
 File: los-local-starter.zip
+
 Size: 34 KB
+
 SHA-256: 01CE26172D7C846366C290AD6E55A485243542959B9AACF4A6DEA51F3C6495ED
 
 ---
