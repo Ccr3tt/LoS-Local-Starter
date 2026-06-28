@@ -1,3 +1,5 @@
+MY Velog : https://velog.io/@ccr3t
+
 ## KOR
 
 # Dockerized Lord of SQL Injection Local Starter
@@ -79,6 +81,4 @@ File: los-local-starter.zip<br>
 Size: 34 KB<br>
 SHA-256: 01CE26172D7C846366C290AD6E55A485243542959B9AACF4A6DEA51F3C6495ED
 
----
 
-MY Velog : https://velog.io/@ccr3t
