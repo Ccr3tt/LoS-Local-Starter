@@ -29,6 +29,8 @@ docker compose down
 
 풀이 기록을 유지하려면 `data/solved.json` 파일을 삭제하지 마세요.
 
+<img width="2128" height="1791" alt="image" src="https://github.com/user-attachments/assets/919d5108-645f-46f8-a631-72360118ae7f" />
+
 ## Thanks
 
 루비야 선생님 사랑해요.
@@ -70,6 +72,9 @@ docker compose down
 ```
 
 To keep your solved progress, do not delete the `data/solved.json` file.
+
+<img width="2128" height="1791" alt="image" src="https://github.com/user-attachments/assets/cfde04d7-60d9-4fbb-980a-0d673fefe412" />
+
 
 ## Thanks
 I love you, Rubiya.
